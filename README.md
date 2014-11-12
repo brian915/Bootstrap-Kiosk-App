@@ -7,13 +7,13 @@ a proof of concept for a kiosk app to add users to a mailing list or check them 
 
 #Goals of the Exercise : 
 
-5)replicate the sign-up form 
+1)replicate the sign-up form 
 
-6) thank you page 
+2) thank you page 
 
-7) automatic return to form upon submit 
+3) automatic return to form upon submit 
 
-8) bonus round - create an event signup option
+4) bonus round - create an event signup option
 
 This application  will utilize AppConnect  - Constant Contact's Developer API
 

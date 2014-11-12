@@ -7,7 +7,7 @@ a proof of concept for a kiosk app to add users to a mailing list or check them 
 
 #Goals of the Exercise : 
 
-1)replicate the sign-up form 
+1) replicate the sign-up form 
 
 2) thank you page 
 

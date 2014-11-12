@@ -21,7 +21,9 @@ class SetupsController < ApplicationController
 private
 
   def setup_params
-    params.require(:signup_form).permit(:list_id, :keyword)
+    params.require(:signup_form).permit(:list_id, :keyword).tap do |whitelist|
+      whitelist[:user] = current_user
+    end
   end
 
 end

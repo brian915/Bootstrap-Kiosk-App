@@ -4,7 +4,9 @@ Bootstrap an App with Constant Contact
 a proof of concept for a kiosk app to add users to a mailing list or check them in at an event 
 
 ==========
-Steps for setting up the basic app 
+Steps for setting up the basic app :
+
+The most recent version of these steps found here : http://slides.com/brian915/bootstrap-an-app-with-constant-contact--2
 
 1) it will utilize AppConnect  - Constant Contact's Developer API
 Developers will need to setup a Mashery Account to get an API key :

@@ -3,6 +3,8 @@ Bootstrap an App with Constant Contact
 
 a proof of concept for a kiosk app to add users to a mailing list or check them in at an event 
 
+Hipchat room for tonights event: https://www.hipchat.com/gvNsQ0cJQ
+
 ==========
 Steps for setting up the basic app :
 

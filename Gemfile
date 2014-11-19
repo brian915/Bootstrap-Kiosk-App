@@ -29,8 +29,6 @@ group :development, :test do
   gem 'letter_opener'
   gem 'parallel_tests'
   gem 'pry-rails'
-  gem 'pry-debugger'
-  gem 'pry-stack_explorer'
   gem 'quiet_assets', '1.0.2'
   gem 'rspec', '2.14.0'
   gem 'rspec-rails', '2.14.2'
